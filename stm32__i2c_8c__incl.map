@@ -1,0 +1,12 @@
+<map id="drivers/platform/stm32/stm32_i2c.c" name="drivers/platform/stm32/stm32_i2c.c">
+<area shape="rect" id="node1" title="Implementation of stm32 i2c driver." alt="" coords="109,5,281,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,169,76,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="76,95,144,121"/>
+<area shape="rect" id="node4" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="168,95,223,121"/>
+<area shape="rect" id="node7" href="$i2c_8h.html" title="Header file of I2C Interface." alt="" coords="259,169,313,196"/>
+<area shape="rect" id="node8" href="$stm32__i2c_8h.html" title="Header file for the stm32 i2c driver." alt="" coords="299,95,401,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="251,244,321,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="153,169,235,196"/>
+<area shape="rect" id="node9" href="$stm32__hal_8h.html" title=" " alt="" coords="388,169,491,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="406,244,473,271"/>
+</map>
